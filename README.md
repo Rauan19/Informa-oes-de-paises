@@ -13,9 +13,4 @@ Este projeto exibe uma lista de **países** de todo o mundo, com informações c
 - **CSS** 🎨: Estilos modernos e responsivos.
 - **API Pública** 🌐: Consumimos uma API para obter informações sobre os países.
   
-## 🛠️ Como Rodar o Projeto Localmente
-
-### Pré-requisitos
-
-Certifique-se de ter o **Node.js** instalado em sua máquina. Caso não tenha, [baixe e instale o Node.js](https://nodejs.org/).
 
